@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm amnah_</h1>
 <h3 align="center">Android developer by (kotlin, flutter)</h3>
 
-- 🌱 I’m currently learning **Flutter State Mangement and Firebase**
+- 🌱 I’m currently learning :- **Flutter State Mangement and Firebase**
 
-- 📫 How to reach me **amnah44ali@gmail.com**
+- 📫 How to reach me :- **amnah44ali@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp](https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp)
+- 📄 Know about my experiences :- [https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp](https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp)
 
-- ⚡ Fun fact **playing by programming on the keyboard and lough**
+- ⚡ Fun fact :- **playing by programming on the keyboard and lough**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
