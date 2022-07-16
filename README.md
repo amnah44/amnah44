@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm amnah_</h1>
-<h3 align="center">Android developer by (kotlin, flutter)</h3>
+<h3 align="center">Android developer</h3>
 
-- 🌱 I’m currently learning :- **Flutter State Mangement and Firebase**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amnah44&label=Profile%20views&color=0e75b6&style=flat" alt="amnah44" /> </p>
 
-- 📫 How to reach me :- **amnah44ali@gmail.com**
+- 🔭 I’m currently working on **freelancer**
 
-- 📄 Know about my experiences :- [https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp](https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp)
+- 🌱 I've 2+ years of **self learning and trining in android developer by kotlin and flutter**
 
-- ⚡ Fun fact :- **playing by programming on the keyboard and lough**
+- 🎯 I’m currently focusing on: **flutter state mangment and firebase, ⭐️ star the projects if you like it 🤩.**
+
+- 📫 How to reach me **amnah44ali@gmail.com**
+
+- 📄 Know about my experiences [https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp](https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp)
+
+- ⚡ Fun fact **playing by programming on the keyboard and lough**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnah44&show_icons=true&locale=en" alt="amnah44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnah44&" alt="amnah44" /></p>
-
