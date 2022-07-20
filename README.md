@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amnah44ali@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp](https://onedrive.live.com/?cid=669CE889EF1A13B5&id=669CE889EF1A13B5%21322&parId=root&o=OneUp)
+- 📄 Know about my experiences https://drive.google.com/file/d/1UIWGVRRArUciN45zv7iA1BNN1C5mlKjK/view
 
 - ⚡ Fun fact **playing by programming on the keyboard and lough**
 
