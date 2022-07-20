@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **freelancer**
 
-- 🌱 I've 2+ years of **self learning and trining in android developer by kotlin and flutter**
+- 🌱 I've 3+ years of **self learning and trining in android developer by kotlin and flutter**
 
 - 🎯 I’m currently focusing on: **flutter state mangment and firebase, ⭐️ star the projects if you like it 🤩.**
 
