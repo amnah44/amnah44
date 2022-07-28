@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **amnah44ali@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1UIWGVRRArUciN45zv7iA1BNN1C5mlKjK/view
-
 - ⚡ Fun fact **playing by programming on the keyboard and lough**
 
 <h3 align="left">Connect with me:</h3>
