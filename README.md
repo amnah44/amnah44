@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnah44&label=Profile%20views&color=0e75b6&style=flat" alt="amnah44" /> </p>
 
-- 🔭 I’m currently working on **freelancer**
+- 🔭 I’m currently work as Android Developer and flutter freelancer
 
-- 🌱 I've 3+ years of **self learning and trining in android developer by kotlin and flutter**
+- 🌱 I've 4+ years of **self learning and work**
 
-- 🎯 I’m currently focusing on: **flutter state mangment and firebase, ⭐️ star the projects if you like it 🤩.**
+- 🎯 I’m currently focusing on: **Jetpack compose, Kotlin Multiplatform and Canvas, ⭐️ star the projects if you like it 🤩.**
 
 - 📫 How to reach me **amnah44ali@gmail.com**
 
