@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnah44&label=Profile%20views&color=0e75b6&style=flat" alt="amnah44" /> </p>
 
-- 🔭 I’m currently work as Android Developer and flutter freelancer
+- 🔭 I’m currently work as Android Developer
 
-- 🌱 I've 4+ years of **self learning and work**
+- 🌱 I've 5+ years of **self learning and work**
 
 - 🎯 I’m currently focusing on: **Jetpack compose, Kotlin Multiplatform and Canvas, ⭐️ star the projects if you like it 🤩.**
 
